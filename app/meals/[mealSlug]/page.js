@@ -1,4 +1,4 @@
-/* eslint-disable jsx-a11y/alt-text */
+
 // localhost:3000/meals/share
 
 import Image from 'next/image'
